@@ -1,1 +1,1 @@
-[Методичка на GitHub](http
+[Методичка на GitHub](httpereredpfdmdfdf
