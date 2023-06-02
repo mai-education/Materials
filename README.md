@@ -7,7 +7,8 @@ Google-диски с полезными материалами:
 - [Нашли у группы М8О-106Б-22](https://drive.google.com/drive/folders/19WwPOo5AAT4G9cZpzWwy3X0tzrJN3sY5?usp=sharing)
 
 Репозитории GitHub:
-- [Диск группы М8О-109Б-22](https://github.com/Maxsmile123/MAI_109B_22)
+- [Репозиторий группы М8О-109Б-22](https://github.com/Maxsmile123/MAI_109B_22)
+- [Тоже полезно](https://github.com/Hanzo1928/Labs_1_course)
 - [Еще](https://github.com/des7ruct1on/labs_2sem)
 - [Еще один](https://github.com/Dmitry4K/MaiLabs)
 - [Еще...](https://github.com/sikorskii/MAI-labs)
